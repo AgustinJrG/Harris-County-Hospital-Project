@@ -20,7 +20,7 @@ Harris Hospital Data was collected from the Texas Department of State Health Ser
 
 ## Houston Methodist Hospital Report
 
-** 1. Introduction**
+**1. Introduction**
    - This report provides an overview of key operational metrics for Houston Methodist Hospital over the past five years, focusing on charity contributions, admissions, and surgeries.
 
 **2. Key Metrics**
