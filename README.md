@@ -15,13 +15,13 @@ Harris Hospital Data was collected from the Texas Department of State Health Ser
 **Key Metrics**
 
    - **Average Charity Contribution:**  
-     Over the past five years, Houston Methodist Hospital has contributed an average of **$4.1 billion** in charity care, reflecting its commitment to community health and support for those in need.
+     - Over the past five years, Houston Methodist Hospital has contributed an average of **$4.1 billion** in charity care, reflecting its commitment to community health and support for those in need.
 
    - **Average Admissions:**  
-     The hospital has recorded an average of **40,307 admissions** annually over the past five years, indicating a consistent demand for its services and the trust of the community.
+     - The hospital has recorded an average of **40,307 admissions** annually over the past five years, indicating a consistent demand for its services and the trust of the community.
 
    - **Average Surgeries:**  
-     Each year, the hospital has performed an average of **39,028 surgeries**, showcasing its capacity and expertise in delivering surgical care to patients.
+     - Each year, the hospital has performed an average of **39,028 surgeries**, showcasing its capacity and expertise in delivering surgical care to patients.
 
 **Conclusion**
    - Houston Methodist Hospital continues to play a vital role in providing quality healthcare, as evidenced by its substantial charity contributions, high admission rates, and significant surgical volume. These metrics underline the hospital's dedication to serving the community effectively.
